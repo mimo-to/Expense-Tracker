@@ -27,7 +27,7 @@ Expense-Tracker/
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Expense-Tracker.git
+git clone https://github.com/mimo-to/Expense-Tracker.git
 cd Expense-Tracker
 ```
 Install dependencies:
